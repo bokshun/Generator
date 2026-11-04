@@ -1,0 +1,14 @@
+# Never commit unreleased work to this public repo
+*.wav
+*.mp3
+*.flac
+*.m4a
+*.aac
+*.mp4
+*.mov
+*.mkv
+songs/
+art/
+lyrics.json
+lyrics.srt
+__pycache__/
